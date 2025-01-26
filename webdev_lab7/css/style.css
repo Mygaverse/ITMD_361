@@ -28,7 +28,7 @@ th, td {
   background-color: black;
 }
 
-#earth {
+.earth {
   background-color:#009879;
   color: #ffffff;
   text-align: center;
@@ -39,7 +39,7 @@ th, td {
   text-align: center;
 }
 
-#fact {
+.fact {
   font-weight: 600;
   text-align: left;
 }
